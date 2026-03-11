@@ -17,3 +17,5 @@ venv/
 # Machine Learning Saved Models
 *.pkl
 *.joblib
+
+dataset/Restaurant.csv
